@@ -1,0 +1,2 @@
+(mover right)
+(agregar 1)
